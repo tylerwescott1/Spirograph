@@ -1,7 +1,4 @@
-// ----------------------------------------------------------------------
-//  CS 218 -> Assignment #10
 //  Spirograph Program.
-//  Provided main.
 //  Uses openGL (which must be installed).
 //  openGL installation:
 //	sudo apt-get update
