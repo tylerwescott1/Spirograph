@@ -1,22 +1,9 @@
-; *****************************************************************
-;  Name: Tyler Wescott
-;  NSHE_ID: 5006959108
-;  Section: 1004
-;  Assignment: 10
-;  Description: Take in command line args and draw an output to openGL 
-
-; -----
 ;  Function: getRadii
 ;	Gets, checks, converts, and returns command line arguments.
 
 ;  Function: drawSpiro()
 ;	Plots spirograph formulas
 
-; ---------------------------------------------------------
-
-;	MACROS (if any) GO HERE
-
-; ---------------------------------------------------------
 
 section  .data
 
